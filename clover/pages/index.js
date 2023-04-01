@@ -1,13 +1,13 @@
-import styles from "./index.module.scss";
+import styles from "../styles/index.module.scss";
 import Image from "next/image";
-import logo from "../../public/images/HABIT_ HAVE-IT.png";
+import logo from "../public/images/HABIT_ HAVE-IT.png";
 import Link from "next/link";
 import { useRouter } from "next/router";
-import Vector from "../../public/images/Vector.png";
-import Mask1 from "../../public/images/Mask group_1.png";
-import Mask2 from "../../public/images/Mask group_2.png";
-import Mask3 from "../../public/images/Mask group_3.png";
-import Mask4 from "../../public/images/Mask group_4.png";
+import Vector from "../public/images/Vector.png";
+import Mask1 from "../public/images/Mask group_1.png";
+import Mask2 from "../public/images/Mask group_2.png";
+import Mask3 from "../public/images/Mask group_3.png";
+import Mask4 from "../public/images/Mask group_4.png";
 
 const index = () => {
   const router = useRouter();
