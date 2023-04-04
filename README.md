@@ -2,7 +2,7 @@
 
 갓생은 의지가 강한 사람들에게만 허락된 것이 아니라 적절한 환경과 소소한 성취감만 주어진다면 누구나 얼마든지 살 수 있다고 생각합니다. <br>
 그래서 **TEAM CLOVER**🍀는 갓생을 사는 사람들과 모두가 함께 건강해질 수 있는 **HABITERS**를 만들었습니다.
-
+<br><br><br><br>
 ## 팀원 소개 😎
 
 |                                              Planner(PM)                                               |                                               Designer                                              |                                                 Developer(FE)                                                  |                                                 Developer(BE)                                                  |
@@ -11,7 +11,7 @@
 |                                                    박가현                                                     |                                                    조정현                                                    |                                                    백재원                                                    |                                                    한태희                                                    | 
 
 
-
+<br><br><br><br>
 
 
 ## Habiters를 소개할게요! 😉
@@ -29,11 +29,13 @@
 | <img src="https://user-images.githubusercontent.com/104195103/229725082-43aa8eb1-5ca2-4500-8467-532eecb030bf.png" width="200" height="350"> |     <img src="https://user-images.githubusercontent.com/104195103/229722358-37e659e4-5868-47ce-8acf-128902b58ed6.png" width="700" height="350">      |
 |  **오늘 하루도 잘 마치셨나요?🙌 <br> 회고를 통해 오늘을 돌아볼 수 있어요.**   | **하루 하루 쌓인 회고 기록을 통해서 한 달 동안의 나에게 어떤 변화가 있었는지 알 수 있어요.** |
 
-## 개발 언어 및 활용 기술
+<br><br><br><br>
+## 개발 언어 및 활용 기술 💻
 ### Tech
 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Data Jpa-0078D4?style=for-the-badge&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Security-6DB33F ?style=for-the-badge&logo=SpringSecurity&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-6DB33F?style=for-the-badge&logo=JsonWebTokens&logoColor=white"/> <img src="https://img.shields.io/badge/OAuth2.0-EB5424?style=for-the-badge&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-2AB1AC?style=for-the-badge&logo=MySQL&logoColor=white"/>
+
 
 ### Deploy
 
@@ -43,7 +45,8 @@
 
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijIdea&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>
 
-## API 설명
+<br><br><br><br>
+## API Spec 💽
 
 ### 습관 API
 https://documenter.getpostman.com/view/25320340/2s93RWQXTo
@@ -52,9 +55,10 @@ https://documenter.getpostman.com/view/25320340/2s93RWQXTo
 ### 회고록 API
 https://documenter.getpostman.com/view/25320340/2s93RWQXTs
 
-
-## ERD
+<br><br><br><br>
+## ERD 💾
 <img src="https://user-images.githubusercontent.com/104195103/229722435-59525a2f-e45f-4bbb-b712-e2489e2012c6.png" width="600" height="600">
 
-## 프로젝트 실행 방법
+<br><br><br><br>
+## 프로젝트 실행 방법 ⚙
 
